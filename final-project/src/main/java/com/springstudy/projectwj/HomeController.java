@@ -1,4 +1,4 @@
-package com.springstudy.project;
+package com.springstudy.projectwj;
 
 import java.util.Locale;
 
